@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Jump_King_Physics.vcxproj" Id="e8d0a63d-0542-4c85-baf1-e4c8a3304ecd" />
+</Solution>
